@@ -1,0 +1,6 @@
+name: AntiLavacast
+main: JavierLeon9966\AntiLavacast\Main
+author: Javier Leon9966
+version: 1.0.0
+api: 3.0.0
+description: A plugin which stops lava from flowing vertically
